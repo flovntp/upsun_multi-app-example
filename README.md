@@ -52,12 +52,13 @@
 </p>
 
 ### Features
-- PHP 8.2
-- PostgreSQL v14
+- PHP 8.3
+- PostgreSQL v15
 - Composer-based build
-- Yarn v1.22.15
-- NodeJS v16
-- Mercure server v0.14.4
+- Yarn v1.22.17
+- GO 1.21
+- NodeJS v20
+- Mercure.rocks server v0.14.4
 
 ## Getting started
 
