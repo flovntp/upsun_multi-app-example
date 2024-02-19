@@ -15,17 +15,17 @@
 <a href="https://community.platform.sh"><strong>Join our community</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.upsun.com"><strong>Documentation</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://platform.sh/blog"><strong>Blog</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://github.com/platformsh-templates/bigfoot-workshop-with-api/issues/new?assignees=&labels=bug&template=bug_report.yml"><strong>Report a bug</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://github.com/platformsh-templates/bigfoot-workshop-with-api/issues/new?assignees=&labels=feature+request&template=improvements.yml"><strong>Request a feature</strong></a>
+<a href="https://github.com/flovntp/upsun_multi-app-example/issues/new?assignees=&labels=bug&template=bug_report.yml"><strong>Report a bug</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/flovntp/upsun_multi-app-example/issues/new?assignees=&labels=feature+request&template=improvements.yml"><strong>Request a feature</strong></a>
 <br /><br />
 </p>
 
 <p align="center">
-<a href="https://github.com/platformsh-templates/bigfoot-multiapp/issues">
-<img src="https://img.shields.io/github/issues/platformsh-templates/bigfoot-multiapp.svg?style=for-the-badge&labelColor=f4f2f3&color=ffd9d9&label=Issues" alt="Open issues" />
+<a href="https://github.com/flovntp/upsun_multi-app-example/issues">
+<img src="https://img.shields.io/github/issues/flovntp/upsun_multi-app-example.svg?style=for-the-badge&labelColor=f4f2f3&color=ffd9d9&label=Issues" alt="Open issues" />
 </a>&nbsp&nbsp
-<a href="https://github.com/platformsh-templates/bigfoot-multiapp/pulls">
-<img src="https://img.shields.io/github/issues-pr/platformsh-templates/bigfoot-multiapp.svg?style=for-the-badge&labelColor=f4f2f3&color=ffd9d9&label=Pull%20requests" alt="Open PRs" />
+<a href="https://github.com/flovntp/upsun_multi-app-example/pulls">
+<img src="https://img.shields.io/github/issues-pr/flovntp/upsun_multi-app-example.svg?style=for-the-badge&labelColor=f4f2f3&color=ffd9d9&label=Pull%20requests" alt="Open PRs" />
 </a>&nbsp&nbsp
 </p>
 
@@ -91,8 +91,8 @@ Each of the options below assume that you have already deployed this template to
 
    or clone this repo if you don't have any existing project
    ```
-   git clone -b multiapp-finished git@github.com:platformsh-templates/bigfoot-workshop-with-api.git bigfoot-multiapp-finished
-   cd bigfoot-multiapp-finished
+   git clone git@github.com:flovntp/upsun_multi-app-example.git bigfoot-multiapp
+   cd bigfoot-multiapp
    
    ```
 
@@ -475,9 +475,9 @@ See something that's wrong with this template that needs to be fixed? Something 
 <p align="center">
 <strong>How to contribute</strong>
 <br /><br />
-<a href="https://github.com/platformsh-templates/API-Platform-v3/issues/new?assignees=&labels=bug&template=bug_report.yml"><strong>Report a bug</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://github.com/platformsh-templates/API-Platform-v3/issues/new?assignees=&labels=feature+request&template=improvements.yml"><strong>Submit a feature request</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://github.com/platformsh-templates/API-Platform-v3/pulls"><strong>Open a pull request</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/flovntp/upsun_multi-app-example/issues/new?assignees=&labels=bug&template=bug_report.yml"><strong>Report a bug</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/flovntp/upsun_multi-app-example/issues/new?assignees=&labels=feature+request&template=improvements.yml"><strong>Submit a feature request</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/flovntp/upsun_multi-app-example/pulls"><strong>Open a pull request</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <br />
 </p>
 <br />
@@ -492,8 +492,8 @@ See something that's wrong with this template that needs to be fixed? Something 
 <h3 align="center"><strong>Thanks to all of our amazing contributors!</strong></h3>
 <br/>
 <p align="center">
-<a href="https://github.com/platformsh-templates/API-Platform-v3/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=platformsh-templates/API-Platform-v3" />
+<a href="https://github.com/flovntp/upsun_multi-app-example/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=flovntp/upsun_multi-app-example" />
 </a>
 </p>
 
